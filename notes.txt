@@ -1,0 +1,22 @@
+here i will be taking notes on this course: https://www.youtube.com/watch?v=82hnvUYY6QA
+ajax = asynchronous javascript and xml
+ -> set of web technologies to send and receive data from a client to a server asynchronously (no page reload)
+ -> JSON has replaced XML in this sense
+
+xhr = xml http request
+axios is based on ajax
+
+xhr object (xml http object)
+-> api in the form of an object
+-> provided by the browser's JS env
+-> methods transfer data between client/server
+-> can be used with other protocols than http
+-> cam work with data other than XML (JSON, plain text etc)
+
+libraries and other methods
+-> jQuery -> overkill if only for ajax
+-> axios -> good for ajax
+-> superagent -> good for ajax
+-> fetch api -> fairly new, might not work on all browsers
+-> prototype
+-> node http
